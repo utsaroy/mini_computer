@@ -1,0 +1,16 @@
+load 20
+push
+load 21
+push
+load 20
+push
+load 21
+push
+pop
+pop
+pop
+pop
+halt
+
+var 20 100
+var 21 200
